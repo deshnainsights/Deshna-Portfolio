@@ -31,16 +31,40 @@ My expertise includes Power BI, SQL, Python, and Business Intelligence, with a f
 Analyzed ESG and stock market data from 426 S&P 500 companies using Regression Analysis, K-Means Clustering, and PCA to evaluate the relationship between sustainability and financial performance.
 
 ## Power BI Superstore Dashboard
+<table>
+<tr>
+<td width="50%">
+  
 Interactive dashboard analyzing sales, profitability, customer segments, and regional performance.
-<p align="right">
-<img src="esg-analysis.png" width="300">
-</p>
 
-Interactive dashboard analyzing sales, profitability, customer segments, and regional performance.
+<br>
+
+🔗 <a href="https://github.com/deshnainsights/esg-analysis.png">View Project</a>
+
+</td>
+
+<td width="50%">
+
+<img src="esg-analysis.png" width="100%">
+
+</td>
+
+</tr>
+</table>
 
 ## Skills
 
-Python • SQL • Power BI • Data Analysis • Data Visualization • Business Intelligence • ETL • Dashboard Development • Machine Learning • Statistical Analysis • Financial Analytics
+## Technical Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
 
 # Resume
 
