@@ -16,8 +16,6 @@ M.Sc. Big Data & Business Analytics student at FOM Hochschule with 2+ years of e
 
 ## ESG Score vs Financial Performance Analysis
 
-<img src="images/esg-analysis.png" width="800">
-
 Analyzed ESG and stock market data from 426 S&P 500 companies using Regression Analysis, K-Means Clustering, and PCA to evaluate the relationship between sustainability and financial performance.
 
 ## Power BI Superstore Dashboard
