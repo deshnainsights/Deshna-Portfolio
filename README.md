@@ -8,9 +8,21 @@
 Data Analyst | Power BI | Python | SQL
 </h3>
 
-## Data Analyst | Power BI | Python | SQL
+I am a Data Analyst with 2+ years of experience in Financial Services Analytics and currently pursuing an M.Sc. in Big Data & Business Analytics in Germany.
 
-M.Sc. Big Data & Business Analytics student at FOM Hochschule with 2+ years of experience in Financial Services Analytics.
+My expertise includes Power BI, SQL, Python, and Business Intelligence, with a focus on transforming data into actionable business insights.
+
+# Career Highlights
+
+📊 Reduced manual reporting by 30%
+
+⚡ Improved process efficiency by 20%
+
+📈 Analyzed 426 S&P 500 companies
+
+🤖 Built Machine Learning forecasting models
+
+🌍 MSc Big Data & Business Analytics (Germany)
 
 # Featured Projects
 
@@ -24,30 +36,16 @@ Analyzed ESG and stock market data from 426 S&P 500 companies using Regression A
 
 Interactive dashboard analyzing sales, profitability, customer segments, and regional performance.
 
-# Technical Skills
+## Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Excel](https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logo=Excel&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-336791?style=for-the-badge)
-
-![Agile](https://img.shields.io/badge/Agile-F2C811?style=for-the-badge&logo=Agile&logoColor=black)
+Python • SQL • Power BI • Data Analysis • Data Visualization • Business Intelligence • ETL • Dashboard Development • Machine Learning • Statistical Analysis • Financial Analytics
 
 # Resume
 
 📄 [Download Resume](Resume.pdf)
 
----
-
 # Contact
 
 📧 [deshna.germany@gmail.com](mailto:deshna.germany@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/deshna-bajaj-data-analyst/
-
+[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/deshnainsights) • [Resume](Resume.pdf)
 💻 GitHub: https://github.com/deshnainsights
