@@ -20,7 +20,7 @@ Analyzed ESG and stock market data from 426 S&P 500 companies using Regression A
 
 ## Power BI Superstore Dashboard
 
-<img src="images/esg-analysis.png" width="800">
+<img src="esg-analysis.png" width="800">
 
 Interactive dashboard analyzing sales, profitability, customer segments, and regional performance.
 
